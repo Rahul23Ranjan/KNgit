@@ -1,0 +1,2 @@
+scipy
+tensor flow
