@@ -1,2 +1,2 @@
-scipy
-tensor flow
+#scipy
+#tensor flow
